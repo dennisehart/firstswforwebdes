@@ -1,5 +1,5 @@
 # firstswforwebdes
-first seatwork for web design
+first seatwork for our web design class.
 
 The file "web desïgn" is the original and unfinished file. 
 <br>
